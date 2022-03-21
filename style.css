@@ -1,0 +1,258 @@
+body{
+    margin: 0;
+    font-family: Roboto,Helvetica Neue,Arial;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #202020;
+    text-align: left;
+}
+
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: #181818;
+
+}
+#image-icon{
+    float: right;
+    margin-top: -136px;
+}
+.logo{
+    width: 30%;
+    height: 72px;
+    padding-left: 67px;
+    padding-top: 15px;
+    
+}
+
+.list1{
+
+    width: 40%;
+    height: 90px;
+    margin-top: -42px;
+    padding-left: 206px;
+    
+}
+.list1 li{
+    padding:0px 8px;
+}
+.list2 li{
+    padding:0px 8px;
+}
+ul li{
+    display: inline-block;
+    margin: 0;
+}
+a{
+   
+    text-decoration: none;
+    color:white;
+    font-family: Roboto,Helvetica Neue,Arial;
+}
+
+.menus{
+    height: 100px;
+}
+
+.list2{
+    width: 40%;
+    float: right;
+    margin-top: -105px;
+}
+
+.heading{
+    width: 100%;
+   
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    color: #000;
+    line-height: 0.9;
+    letter-spacing: -3.48px;
+    margin: 0px,0px,0px,-3.48px;
+    font-family: Roboto,"Helvetica Neue",Arial;
+    font-size: 85px;
+    text-transform: uppercase;
+}
+
+#image-one{
+    width: 100%;
+    height: 600px;
+}
+
+#image-two{
+    width: 100%;
+    margin-bottom: 52px;
+}
+
+h3{
+    font-size: 2rem;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.3;
+    letter-spacing: 0.03rem;
+    text-align: left;
+    margin-top: -566px;
+    margin-left: 135px;
+  
+    
+}
+
+#two{
+    margin-top: 85px;
+}
+
+.image-text{
+    font-size: 80px;
+    position: absolute;
+    margin-top: -79px;
+    margin-left: 138px;
+    color: #202020;
+}
+
+.image-text1{
+    font-size: 80px;
+    position: absolute;
+    margin-top: 11px;
+    margin-left: 138px;
+    color: #202020;
+}
+.main-button{
+    width: 100%;
+}
+.submain-button{
+    width: 30%;
+    position: absolute;
+    margin-top: 232px;
+    margin-left: 140px;
+}
+.one{
+    width: 25%;
+   background-color: white;
+    border: none;
+    font-size: 16px;
+    margin-left: -18px;
+}
+.twob{
+    width: 25%;
+    background-color: white;
+    border: none;
+    font-size: 16px;
+}
+.three{
+    width: 25%;
+    background-color: white;
+    border: none;
+    font-size: 16px;
+}
+
+#line{
+    width: 81%;
+    margin-left: 0px
+
+}
+
+#third-page{
+    margin-top: 563px;
+}
+
+#image3{
+    height: 750px;
+    width: 100%;
+}
+
+.thirdimage-text{
+    color: white;
+    margin-left: 96px;
+}
+
+.thirdimage-text1{
+    color: white;
+    font-size: 84px;
+    margin-left: 92px;
+    margin-top: 10px;
+}
+
+#fourth-page{
+    margin-top: 411px;
+}
+
+.fourthpage-text{
+    margin-top: 411px;
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+.fourthpage-text1{
+    font-size: 7.6rem;
+    font-weight: bold;
+    margin-top: 11px;
+    margin-left: 130px;
+}
+
+.fourth-image{
+    width: 80%;
+    margin-left: 147px;
+    margin-top: -52px;
+}
+
+.date{
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-top: 60px;
+    margin-left: 143px;
+ 
+}
+
+.fourthimage-text{
+    margin-top: 18px;
+    margin-left: 2px;
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 1.1;
+   
+}
+
+.fourth-button{
+    margin-top: -59px;
+    float: right;
+    width: 16%;
+    height: 51px;
+    background-color: transparent;
+    font-size: 1.01rem;
+    margin-right: 151px;
+    border: 2px solid rgb(145, 134, 134);
+}
+
+.footer-page{
+    width: 100%;
+    height: 259px;
+    background-color: #181818;
+    padding-top: 44px;
+}
+
+.footer-list li{
+    color: white;
+    display: inline-block;
+    padding:0px 8px;
+    font-size: 16px;
+}
+
+.footer-paragraph{
+    color: #b7b7bb;
+}
+#last-line{
+    color: #b7b7bb;
+}
+.footer-copyright{
+    color: #b7b7bb;
+}
+#footer-image{
+    float: right;
+    margin-top: -83px;
+    margin-right: 27px;
+}
